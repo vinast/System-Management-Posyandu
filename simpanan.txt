@@ -1,0 +1,24 @@
+// void User::syaratBeli() {
+// awals:
+//   ambildataLogin();
+//   cout<<endl;
+//   cout<<"Mohon maaf, Silakan Masukkan Nik Anda Kembali Untuk Pendataan..."<<endl;
+//   cout << "Masukkan Nik Anda  : ";
+//   cin >> nikbeli;
+//   cout << "----------------------------------------------" << endl;
+//   for (int i = 1; i < idxe; i++) {
+//      //cout<< dataKTP[i].nik<<endl;
+//     if (nikbeli == dataKTP[i].nik) {
+//       cout << "Nik Terdaftar, Silahkan Lanjut..." << endl;
+//       // system("claer"); // claer nya gabisa
+//       sttsBeli = true;
+//       // Beli();
+//       break;
+//     } else {
+//       // system clear
+//       cout << "Nik Tidak Terdaftar, Silahkan Ulangi!!!" << endl;
+//       // system("claer"); // claernya gabisa
+//       goto awals;
+//     }
+//   }
+// }

@@ -1,0 +1,34 @@
+----------------------------------------------
+|																						 |
+|								Posyandu Bahagia 						 |
+|																						 |
+----------------------------------------------
+| NIK                 : 2100018181
+| Nama                : Didik
+| TTL                 : Sorolangun,13-09-2003
+| Jenis Kelamin       :  Laki-laki
+| Gol. Darah          :  O
+| Alamat              : Dusun Batin_pengambang
+| RT                  :  07
+| RW                  :  03
+| Desa                :  Batin_pengambang
+| Kecamatan           :  Sarolangun
+| Kabupaten           :  Sarolangun
+| Provinsi            :  Jambi
+| Agama               :  Islam
+| Status Perkawinan   :  Belum_Kawin
+| Pekerjaan           :  Mahasiswa
+| Kewarganegaraan     :  WNI
+| Berlaku Hingga      :  Seumur_hidup
+----------------------------------------------
+ID	NAMA BARANG	  HARGA	 JUMLAH	 TOTAL 
+----------------------------------------------
+1   Vaksi_hepatitis	25000	  4	     100000
+2   Paracetamol   	35000	  3	     105000
+----------------------------------------------
+| Total Yang Harus Dibayar         : 205000
+| Yang dibayarkan                  : 210000
+| Kembalian                        : 5000
+----------------------------------------------
+  TERIMA KASIH TELAH MELAKUKAN TRANSAKSI
+----------------------------------------------

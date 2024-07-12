@@ -1,0 +1,5 @@
+1;Obat_Fluu;49;25000
+2;Paracetamol;47;35000
+3;Obat_Diare;50;42000
+4;Obat_gatal;50;42000
+5;Obat_Batuk;48;7000

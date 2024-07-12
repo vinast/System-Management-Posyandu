@@ -1,0 +1,29 @@
+Jalannya antrian Balita
+menunya
+3. Cek kesehatan Balita (USer)
+4. Lihat Antrian Pemeriksaan Balita (USer)
+18. Proses Antrian Cek Kesehatan Balita (Admin)
+5. Cek BAlita yang telah diperikasa (USer)
+
+
+
+total sementara 6.617  15/12
+
+
+
+kek gini dik
+
+          Bidan
+        //     \\
+       //       \\
+      Bumil   P.jawab
+
+
+
+
+ngga bikin gtu aja udah
+udah gtu aja
+iyaa gtu dlu
+yg lain nyusul
+
+dmna tadi codinga n riwayat periksa

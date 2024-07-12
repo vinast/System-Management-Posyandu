@@ -1,0 +1,3 @@
+Bagas;2100018224;Yogyakarta;Gunung_kidul;12-05-2002;Koripan;06;07;Sumber_giri;Ponjong;Gunung_kidul;Islam;Belum_Kawin;Mahasiswa;WNI;Seumur_hidup;Laki-laki;O
+Didik;2100018181;Jambi;Sorolangun;13-09-2003;Batin_pengambang;07;03;Batin_pengambang;Sarolangun;Sarolangun;Islam;Belum_Kawin;Mahasiswa;WNI;Seumur_hidup;Laki-laki;O
+Radip;2100018183;Lampung;Lamsel;11-11-2002;Sidodadi;05;02;Sidoasih;Ketapang;Lampung_selatan;Islam;Belum_kawin;Mahasiswa;WNI;Seumur_hidup;Laki-laki;O

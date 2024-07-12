@@ -1,0 +1,3 @@
+2;Udin;Siti;82;11.2;3
+1;Caca;Diyah;83;14;4
+3;Bayu;Futria;85;14.5;3

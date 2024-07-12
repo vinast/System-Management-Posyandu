@@ -1,0 +1,5 @@
+20003;123456;Eka,Amd_keb;Yogyakarta;23-10-1980;Bandung;082134567890;Melati;02;04;Sorosutan;Umbulharjo;Yogyakarta;3
+20002;132456;Hartanti,Amd_keb;Yogyakarta;12-05-1986;cianjur;081234567890;Mawar;05;01;Maguwoharjo;Depok;Sleman;5
+20001;213456;Nur,Amd_keb;Yogyakarta;15-07-1980;Depok;085156522274;Anggrek;09;03;Sidomulyo;Godean;Sleman;4
+20005;213473;Solihah,Amd_keb;Yogyakarta;14-08-1982;Cibadas;085156523474;Raflesia;02;03;Sidokabul;Umbulharjo;Yogyakarta;1
+20004;213478;Ulfatun,Amd_keb;Yogyakarta;19-09-1983;Depok;085156524472;Lavender;04;05;Payak;Ponjong;Gunungkidul;2

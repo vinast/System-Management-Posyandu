@@ -1,0 +1,4 @@
+1;Penyuluhan;menjaga kesehatan janin pada trimester 1;20/1/2023;Bumil;Posyandu Bahagia
+2;Pemeriksaan;Pentingnya dilakukan pemberian vaksin pada balita;25/1/2023;Balita;Posyandu Bahagia
+3;Penyuluhan;Dilakukan jadwal posyandu setiap 20/bulan;20/1/2023;Balita;Posyandu Bahagia
+4;Pemeriksaan;Pemeriksaan Bayi Tabung;1/2/2023;Bumil;Posyandu Bahagia
